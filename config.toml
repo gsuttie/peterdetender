@@ -23,17 +23,17 @@ publishDir = "docs"
     weight = 1
 
 [[menu.main]]
-    url = "/about"
+    url = "about"
     name = "About"
     weight = 2
 
 [[menu.main]]
-    url = "/post"
+    url = "post"
     name = "Posts"
     weight = 3
 
 [[menu.main]]
-    url = "/publications"
+    url = "publications"
     name = "Publications"
     weight = 4
 
