@@ -1,4 +1,4 @@
-baseURL = "/" 
+baseURL = "https://gsuttie.github.io/peterdetender/" 
 languageCode = "en-us"
 title = "Azure Readiness"
 theme = "minimal"
