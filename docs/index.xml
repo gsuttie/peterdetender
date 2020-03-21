@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Readiness</title>
-    <link>https://gsuttie.github.io/</link>
+    <link>https://gsuttie.github.io/peterdetender/</link>
     <description>Recent content on Azure Readiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gsuttie.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gsuttie.github.io/peterdetender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1</title>
-      <link>https://gsuttie.github.io/publications/project1/</link>
+      <link>https://gsuttie.github.io/peterdetender/publications/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/publications/project1/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/publications/project1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 2</title>
-      <link>https://gsuttie.github.io/publications/project2/</link>
+      <link>https://gsuttie.github.io/peterdetender/publications/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/publications/project2/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/publications/project2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 3</title>
-      <link>https://gsuttie.github.io/publications/project3/</link>
+      <link>https://gsuttie.github.io/peterdetender/publications/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/publications/project3/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/publications/project3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 4</title>
-      <link>https://gsuttie.github.io/publications/project4/</link>
+      <link>https://gsuttie.github.io/peterdetender/publications/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/publications/project4/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/publications/project4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New book published: Azure Strategy and Implementation Guide, 3rd edition</title>
-      <link>https://gsuttie.github.io/post/new-book-published/</link>
+      <link>https://gsuttie.github.io/peterdetender/post/new-book-published/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/post/new-book-published/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/post/new-book-published/</guid>
       <description>You might get amazed, finding out I managed to publish yet another book, where the previous one Efficiently Migrating your workloads to Azure only got published around Christmas.
 However, this new one was a &amp;ldquo;longer work in progress&amp;rdquo;, and not something I could spew out in just a few weeks.
 Several months ago, I got approached by Packt Publishing, asking me to &amp;ldquo;write a quick note on how I look at Azure strategic implementation and migration&amp;rdquo;.</description>
@@ -60,30 +60,30 @@ Several months ago, I got approached by Packt Publishing, asking me to &amp;ldqu
     
     <item>
       <title>Updated Azure Exams Announced</title>
-      <link>https://gsuttie.github.io/post/updated-azure-exams/</link>
+      <link>https://gsuttie.github.io/peterdetender/post/updated-azure-exams/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/post/updated-azure-exams/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/post/updated-azure-exams/</guid>
       <description>Things are going fast in the Azure world, and apparently exams are more and more following that pace. Before you start screaming and worrying, as you might be preparing for a current exam, let me share a bit about several steps happening before an exam becomes available.
 Exam Objectives (OD) For a long time, Microsoft Learning has based exams on &amp;ldquo;exam objectives&amp;rdquo;, which is typically a list of &amp;ldquo;services, features, activities&amp;rdquo; anyone taking the exam, should master.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://gsuttie.github.io/post/goisforlovers/</link>
+      <link>https://gsuttie.github.io/peterdetender/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/post/goisforlovers/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/post/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://gsuttie.github.io/post/hugoisforlovers/</link>
+      <link>https://gsuttie.github.io/peterdetender/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/post/hugoisforlovers/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -94,10 +94,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://gsuttie.github.io/post/migrate-from-jekyll/</link>
+      <link>https://gsuttie.github.io/peterdetender/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/post/migrate-from-jekyll/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
 ▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -105,10 +105,10 @@ Follow the following steps:
     
     <item>
       <title>Welcome to 007FFFLearning.com</title>
-      <link>https://gsuttie.github.io/about/</link>
+      <link>https://gsuttie.github.io/peterdetender/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gsuttie.github.io/about/</guid>
+      <guid>https://gsuttie.github.io/peterdetender/about/</guid>
       <description>Microsoft Azure Readiness Starts Here&amp;hellip; Peter De Tender I am an Azure Technical Trainer (ATT) for the EMEA region at Microsoft. Out of this role, I provide Azure readiness workshops to larger Microsoft customers and partners, skilling up their Azure knowledge.
 Before taking on this position, I was already an Azure trainer and cloud solution architect out of my own business, for the last 5 years. I decided to keep the domain name for obvious reasons, and will continue providing Azure readiness content here, or at user group events and other conferences as speaker.</description>
     </item>
